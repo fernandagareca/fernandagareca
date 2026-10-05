@@ -27,14 +27,14 @@
           width="130"
         />
         <img
-          src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_FULL--STACK-4C1D95?style=plastic"
-          alt="Full-Stack"
-          width="150"
-        />
-        <img
           src="https://img.shields.io/badge/%F0%9F%8E%A8_CREATIVE-8B5CF6?style=plastic"
           alt="Creative"
           width="130"
+        />
+        <img
+          src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_FULL--STACK--DEVELOPER-6D5AA8?style=plastic"
+          alt="Full-Stack Developer"
+           width="260"
         />
       </div>
     </td>
