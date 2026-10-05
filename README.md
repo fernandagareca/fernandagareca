@@ -21,17 +21,15 @@ I enjoy programming, learning new things, and creating projects
 that combine <strong>logic, creativity, and design</strong>.
 </p>
 
-<p>
+<p align="center" >
   <img
     src="https://img.shields.io/badge/STUDENT-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=A78BFA"
     alt="Student"
   />
-
   <img
     src="https://img.shields.io/badge/FULL--STACK_%26_DESIGN-1E1B4B?style=for-the-badge&logo=figma&logoColor=A78BFA"
     alt="Full-Stack and Design"
   />
-
   <img
     src="https://img.shields.io/badge/CREATIVE-1E1B4B?style=for-the-badge&logo=figma&logoColor=A78BFA"
     alt="Creative"
@@ -57,14 +55,14 @@ that combine <strong>logic, creativity, and design</strong>.
 ## 💜 About Me
 
 <p>
-🎓 Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
-💻 Interested in <strong>software development, data science, and design</strong><br>
-🧠 Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
-🎨 I enjoy combining <strong>logic, creativity and design</strong> in my projects<br>
+★ Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
+★ Interested in <strong>software development, data science, and design</strong><br>
+★ Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
+★ I enjoy combining <strong>logic, creativity and design</strong> in my projects<br>
 </p>
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-##  Technologies
+## ✎ Technologies
 
 <table>
 
@@ -198,11 +196,19 @@ that combine <strong>logic, creativity, and design</strong>.
 
 <!-- ===================== STATS ===================== -->
 
-<h2>GitHub Stats</h2>
+<h2> ✿ GitHub Stats ✿</h2>
 
 <div align="center">
 <p align="center">
+  <!-- ===================== GITHUB STATS ===================== -->
 
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=fernandagareca&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0"
+    alt="GitHub Stats"
+  />
+</p>
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0"
@@ -210,13 +216,21 @@ that combine <strong>logic, creativity, and design</strong>.
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=fernandagareca&theme=dark&hide_border=true&background=0F172A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 </div>
 
 
 
 <!-- ===================== CONTACT ===================== -->
 
-## 💌 Let's connect
+## ✿ Let's connect ✿
 
 <p>
   <a href="https://www.linkedin.com/in/fernanda-g-897414301/">
@@ -225,7 +239,6 @@ that combine <strong>logic, creativity, and design</strong>.
       alt="LinkedIn"
     />
   </a>
-
   <a href="mailto:fernanda.gareca321@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"
@@ -235,10 +248,11 @@ that combine <strong>logic, creativity, and design</strong>.
 </p>
 
 
+
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <b>💜 Thanks for visiting my profile!</b>
+  <b>✦ Thanks for visiting my profile! ✦</b>
 </p>
 
 <p align="center">
