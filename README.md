@@ -199,12 +199,12 @@ that combine <strong>logic, creativity, and design</strong>.
 
 <p align="center">
 <img
-  height="150"
+  height="160"
   src="https://github-readme-stats.vercel.app/api?username=fernandagareca&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&ring_color=A78BFA&border_radius=24"
   alt="GitHub Stats"
 />
 <img
-  height="150"
+  height="160"
   src="https://streak-stats.demolab.com?user=fernandagareca&theme=dark&hide_border=false&border=8B5CF6&background=0F172A&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=E2E8F0&sideLabels=A78BFA&dates=94A3B8&currStreakNum=E2E8F0&border_radius=24"
   alt="GitHub Streak"
 />
