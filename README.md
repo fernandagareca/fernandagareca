@@ -206,14 +206,11 @@ that combine <strong>logic, creativity, and design</strong>.
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=fernandagareca&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0"
-    alt="GitHub Stats"
-  />
-</p>
+    alt="GitHub Stats"/>
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0"
-    alt="Top Languages"
-  />
+    alt="Top Languages"/>
 </p>
 
 <p align="center">
