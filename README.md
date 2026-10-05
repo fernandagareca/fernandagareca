@@ -38,7 +38,7 @@ that combine <strong>logic, creativity, and design</strong>.
 
 </td>
 <td width="42%" align="center" valign="middle">
-<img src="./image.png" alt="Programando" width="300">
+  <img src="./programando.gif" alt="Programming" >
 </td>
 
 </tr>
@@ -215,7 +215,6 @@ that combine <strong>logic, creativity, and design</strong>.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=24"
   alt="Top Languages"
 />
-
 
 <!-- ===================== CONTACT ===================== -->
 
