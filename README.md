@@ -16,7 +16,11 @@
     I enjoy programming, learning new things, and creating projects
     that combine <strong>logic, creativity, and design</strong>.
   </p>
-<br>
+<p align="center">
+  <sub>
+    ✦　·　✧　·　◦　·　✦　·　◦　·　✧　·　✦
+  </sub>
+</p>
 <div align="center">
   <img
     src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_STUDENT-312E81?style=plastic"
@@ -52,7 +56,8 @@
     width="100%"
     alt=""
   />
-<h2>♡ About Me</h2>
+
+<h2>♡ About Me </h2>
 <p>
 ★ Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
 ★ Interested in <strong>software development, data science, and design</strong><br>
@@ -70,7 +75,7 @@
 
 </p>
 
-<h2>✎ Technologies</h2>
+<h2>✿ Technologies ✿</h2>
 
 <table width="100%">
 
@@ -406,14 +411,18 @@
 </div>
 
 <p align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=20"
     alt="Top Languages"
   />
-
 </p>
-
+<p align="center">
+  <img
+    src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=fernandagareca&theme=dracula&days=365"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <!-- ===================== CONTACT ===================== -->
 
