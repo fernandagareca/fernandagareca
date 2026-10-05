@@ -360,15 +360,10 @@ that combine <strong>logic, creativity, and design</strong>.
 
 
 <!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <b>✦ Thanks for visiting my profile! ✦</b>
-</p>
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0F172A&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0F172A&height=140&section=footer&text=✦%20Thanks%20for%20visiting%20my%20profile!%20✦&fontColor=FFFFFF&fontSize=22&fontAlignY=65"
     width="100%"
-    alt="footer"
+    alt="Thanks for visiting my profile"
   />
 </p>
