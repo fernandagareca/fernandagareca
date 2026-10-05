@@ -400,7 +400,7 @@
 
 </div>
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse;", align="center">
   <tr>
    <td width="50%" align="left" valign="middle">
       <img
@@ -408,6 +408,8 @@
         alt="Programming"
         width="300"
       />
+    <td width="140" align="center">
+      <sub>✦　·　✧　·　✦</sub>
     </td>
     <td width="50%" align="right" valign="middle">
       <img
