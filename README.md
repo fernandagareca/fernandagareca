@@ -9,7 +9,7 @@
 <td width="58%" valign="middle">
 
 <h1>Hi! I'm Marianela Fernanda Gareca Janko 💜</h1>
-<table width="100%">
+<table>
   <tr>
     <td align="center" bgcolor="#2D264A">
       <h3>
@@ -63,10 +63,10 @@
   />
 <h2>♡ About Me</h2>
 <p>
-<font color="#8c73ee">★</font> Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
-<font color="#8c73ee">★</font> Interested in <strong>software development, data science, and design</strong><br>
-<font color="#8c73ee">★</font> Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
-<font color="#8c73ee">★</font> I enjoy combining <strong>logic, creativity and design</strong> in my projects
+★ Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
+★ Interested in <strong>software development, data science, and design</strong><br>
+★ Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
+★ I enjoy combining <strong>logic, creativity and design</strong> in my projects
 </p>
 <!-- ===================== TECHNOLOGIES ===================== -->
 <p align="center">
