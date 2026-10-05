@@ -409,7 +409,7 @@
         width="300"
       />
     </td>
-    <td width="50%" align="ringht" valign="middle">
+    <td width="50%" align="right" valign="middle">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=20"
         alt="Top Languages"
