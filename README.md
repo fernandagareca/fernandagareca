@@ -145,12 +145,12 @@ that combine <strong>logic, creativity, and design</strong>.
 >
 </a>
 
-<a href="mailto:fernanda.gareca321@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"
->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fernanda.gareca321@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-
 </p>
 
 
