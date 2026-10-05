@@ -16,11 +16,6 @@
         I enjoy programming, learning new things, and creating projects
         that combine <strong>logic, creativity, and design</strong>.
       </p>
-      <p align="center">
-        <sub>
-          ✦　·　✧　·　◦　·　✦　·　◦　·　✧　·　✦
-        </sub>
-      </p>
       <div align="center">
         <img
           src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_STUDENT-312E81?style=plastic"
@@ -402,14 +397,14 @@
 
 <table width="100%" style="border-collapse: collapse;", align="center">
   <tr>
-   <td width="50%" align="left" valign="middle">
+   <td width="50%" align="center" valign="middle">
       <img
         src="./write.gif"
         alt="Programming"
         width="300"
       />
     <td width="140" align="center">
-      <sub>✦　·　✧　·　✦</sub>
+      <sub>   ✦　·　✧　·　◦　·　✦　·　◦　·　✧　·　✦</sub>
     </td>
     <td width="50%" align="right" valign="middle">
       <img
