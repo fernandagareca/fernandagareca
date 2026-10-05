@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4C1D95,100:8B5CF6&height=180&section=header&text=Marianela%20Gareca&fontSize=42&fontColor=EDE9FE&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:A78BFA&height=180&section=header&text=Marianela%20Gareca&fontSize=42&fontColor=C4B5FD&fontAlignY=40&animation=fadeIn"
     width="100%"
     alt="Marianela Gareca"
   />
@@ -8,9 +8,13 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="60%" valign="middle">
-      <h1>Hi! I'm Marianela Fernanda Gareca Janko 💜</h1>
+       <img
+          src="https://capsule-render.vercel.app/api?type=soft&color=A78BFA&height=90&section=header&text=👋%20Hi!%20I'm%20Marianela%20Fernanda%20Gareca%20Janko&fontColor=312E81&fontSize=36&fontAlignY=55"
+          width="100%"
+          alt="👋 Hi! I'm Marianela Fernanda Gareca Janko"
+        />
       <h3>
-        ✦ Computer Engineering &amp; Systems Analysis Student
+        Computer Engineering &amp; Systems Analysis Student
       </h3>
       <p>
         I enjoy programming, learning new things, and creating projects
@@ -72,9 +76,9 @@
   />
 </p>
 
-<h2>✿ Technologies ✿</h2>
+<h2>✦ Technologies ✦</h2>
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
 
   <!-- LANGUAGES -->
 
@@ -376,7 +380,7 @@
   />
 </p>
 
-<h2>✿ GitHub Stats ✿</h2>
+<h2>✦ GitHub Stats ✦</h2>
 
 <div>
   <img
@@ -430,7 +434,7 @@
   />
 </p>
 
-<h2>✿ Let's Connect ✿</h2>
+<h2>✦ Let's Connect ✦</h2>
 
 <p>
   <a
@@ -466,7 +470,7 @@
 <p align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0F172A&height=140&section=footer&text=✦%20Thanks%20for%20visiting%20my%20profile!%20✦&fontColor=FFFFFF&fontSize=22&fontAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:A78BFA&height=140&section=footer&fontColor=C4B5FD&text=✦%20Thanks%20for%20visiting%20my%20profile!%20✦&fontSize=22&fontAlignY=65"
     width="100%"
     alt="Thanks for visiting my profile"
   />
