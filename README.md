@@ -7,24 +7,15 @@
 </p>
 <table width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td  valign="middle">
 <h1>Hi! I'm Marianela Fernanda Gareca Janko 💜</h1>
-<table>
-  <tr>
-    <td align="center" bgcolor="#2D264A">
-      <h3>
-        ✦ Computer Engineering &amp; Systems Analysis Student
-      </h3>
-      <p>
-        I enjoy programming, learning new things, and creating projects
-        that combine <strong>logic, creativity, and design</strong>.
-      </p>
-      <sub>
-        ✦ ───────────── ✦
-      </sub>
-    </td>
-  </tr>
-</table>
+ <h3>
+    ✦ Computer Engineering &amp; Systems Analysis Student
+  </h3>
+  <p>
+    I enjoy programming, learning new things, and creating projects
+    that combine <strong>logic, creativity, and design</strong>.
+  </p>
 <br>
 <div align="center">
   <img
