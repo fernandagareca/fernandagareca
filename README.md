@@ -6,52 +6,96 @@
   />
 </p>
 <table width="100%">
-<td width="58%" valign="middle">
-
+<tr>
+<td width="60%" valign="middle">
 <h1>Hi! I'm Marianela Fernanda Gareca Janko 💜</h1>
-<table>
+<table width="100%">
   <tr>
     <td align="center" bgcolor="#2D264A">
       <h3>
-        <font color="#C4B5FD">✦ Computer Engineering & Systems Analysis Student</font>
+        ✦ Computer Engineering &amp; Systems Analysis Student
       </h3>
       <p>
-        <font color="#E2E8F0">
-          I enjoy programming, learning new things, and creating projects
-          that combine <strong>logic, creativity, and design</strong>.
-        </font>
+        I enjoy programming, learning new things, and creating projects
+        that combine <strong>logic, creativity, and design</strong>.
       </p>
       <sub>
-        <font color="#8B7BB8">✦ ───────────── ✦</font>
+        ✦ ───────────── ✦
       </sub>
     </td>
   </tr>
 </table>
-  <div align="center">
-    <img
-      src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_STUDENT-312E81?style=plastic"
-      alt="Student"
-      width="130"
-    />
-    <img
-      src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_FULL--STACK-4C1D95?style=plastic"
-      alt="Full-Stack"
-      width="150"
-    />
-    <img
-      src="https://img.shields.io/badge/%F0%9F%8E%A8_CREATIVE-8B5CF6?style=plastic"
-      alt="Creative"
-      width="130"
-    />
-  </div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_STUDENT-312E81?style=plastic"
+    alt="Student"
+    width="130"
+  />
+
+  <img
+    src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_FULL--STACK-4C1D95?style=plastic"
+    alt="Full-Stack"
+    width="150"
+  />
+
+  <img
+    src="https://img.shields.io/badge/%F0%9F%8E%A8_CREATIVE-8B5CF6?style=plastic"
+    alt="Creative"
+    width="130"
+  />
+
+</div>
+
 </td>
 
 <td width="40%" align="center" valign="middle">
+
   <img
     src="./anime.gif"
     alt="Programming"
+    width="320"
   />
+
 </td>
+
+</tr>
+</table>
+<br>
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_STUDENT-312E81?style=plastic"
+    alt="Student"
+    width="130"
+  />
+  <img
+    src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_FULL--STACK-4C1D95?style=plastic"
+    alt="Full-Stack"
+    width="150"
+  />
+  <img
+    src="https://img.shields.io/badge/%F0%9F%8E%A8_CREATIVE-8B5CF6?style=plastic"
+    alt="Creative"
+    width="130"
+  />
+</div>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img
+  src="./anime.gif"
+  alt="Programming"
+  width="320"
+/>
+
+</td>
+
 </tr>
 </table>
 <!-- ===================== ABOUT ME ===================== -->
