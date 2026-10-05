@@ -35,10 +35,7 @@
       </div>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img
-        src="./anime.gif"
-        alt="Programming"
-        width="320"
+      <img src="./saludo.gif" alt="Programming" width="320"
       />
     </td>
   </tr>
@@ -49,19 +46,19 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=900"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:8B5CF6,100:C4B5FD&height=3&width=900"
     width="100%"
     alt=""
   />
 </p>
 
-<h2>♡ About Me</h2>
+<h2> About Me</h2>
 
 <p>
-★ Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
-★ Interested in <strong>software development, data science, and design</strong><br>
-★ Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
-★ I enjoy combining <strong>logic, creativity and design</strong> in my projects
+🟣 Studying <strong>Computer Engineering &amp; Systems Analysis</strong> at UBA<br>
+🟣 Interested in <strong>software development, data science, and design</strong><br>
+🟣 Currently exploring <strong>machine learning</strong> and <strong>distributed systems</strong><br>
+🟣 I enjoy combining <strong>logic, creativity and design</strong> in my projects
 </p>
 
 
@@ -69,7 +66,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=900"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:8B5CF6,100:C4B5FD&height=3&width=900"
     width="100%"
     alt=""
   />
@@ -373,7 +370,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=900"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:8B5CF6,100:C4B5FD&height=3&width=900"
     width="100%"
     alt=""
   />
@@ -404,7 +401,7 @@
         width="300"
       />
     <td width="140" align="center">
-      <sub>   ✦　·　✧　·　◦　·　✦　·　◦　·　✧　·　✦</sub>
+      <sub>   ✦　·　✧　·　✦　·　✧　·　✦</sub>
     </td>
     <td width="50%" align="right" valign="middle">
       <img
@@ -426,13 +423,11 @@
 <!-- ===================== CONTACT ===================== -->
 
 <p align="center">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=900"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:8B5CF6,100:C4B5FD&height=3&width=900"
     width="100%"
     alt=""
   />
-
 </p>
 
 <h2>✿ Let's Connect ✿</h2>

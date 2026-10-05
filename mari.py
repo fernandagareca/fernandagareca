@@ -4,7 +4,7 @@ from pathlib import Path
 
 def recortar_fotogramas():
     # Imagen que contiene los 16 fotogramas
-    imagen = Image.open("write.jfif")
+    imagen = Image.open("saludo.jfif")
 
     # Tenemos 4 cuadros por fila y 4 por columna
     columnas = 4
@@ -56,7 +56,7 @@ def main():
 
     # Creamos el GIF
     frames[0].save(
-        "write.gif",
+        "saludo.gif",
         save_all=True,
         append_images=frames[1:],
         duration=300,
