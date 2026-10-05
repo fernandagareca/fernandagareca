@@ -410,12 +410,24 @@
 />
 </div>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=20"
-    alt="Top Languages"
-  />
-</p>
+<table width="100%">
+<tr>
+<td width="45%" align="center" valign="middle">
+<img
+  src="./write.gif"
+  alt="Programming"
+  width="300"
+/>
+</td>
+<td width="55%" align="center" valign="middle">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=20"
+  alt="Top Languages"
+/>
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img
     src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=fernandagareca&theme=dracula&days=365"
