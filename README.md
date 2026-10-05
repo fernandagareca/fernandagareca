@@ -312,12 +312,6 @@ that combine <strong>logic, creativity, and design</strong>.
 ## ✿ Let's connect ✿
 
 <p>
-  <a href="mailto:fernanda.gareca321@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
   <a href="https://linkedin.com/in/fernanda-g-897414301/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
