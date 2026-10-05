@@ -37,8 +37,8 @@ that combine <strong>logic, creativity, and design</strong>.
 </p>
 
 </td>
-<td width="42%" align="center" valign="middle">
-  <img src="./programando.gif" alt="Programming" >
+<td width="40%" align="center" valign="middle">
+  <img src="./anime_hq.gif" alt="Programming" >
 </td>
 
 </tr>
@@ -71,12 +71,37 @@ that combine <strong>logic, creativity, and design</strong>.
   </td>
 
   <td>
-    <img
-      src="https://skillicons.dev/icons?i=python,c,cpp,clojure,java,js,ts,rust,go&theme=dark"
-      alt="Languages"
-    />
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+    </a>
+    <a href="https://clojure.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=clojure&theme=dark" alt="Clojure" />
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" />
+    </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
+    </a>
+
   </td>
 </tr>
+
 
 <!-- FRONTEND -->
 <tr>
@@ -88,12 +113,19 @@ that combine <strong>logic, creativity, and design</strong>.
   </td>
 
   <td>
-    <img
-      src="https://skillicons.dev/icons?i=react,html,css,ts&theme=dark"
-      alt="Frontend"
-    />
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+    </a>
+
   </td>
 </tr>
+
 
 <!-- BACKEND -->
 <tr>
@@ -105,16 +137,27 @@ that combine <strong>logic, creativity, and design</strong>.
   </td>
 
   <td>
-    <img
-      src="https://skillicons.dev/icons?i=go,java,spring&theme=dark"
-      alt="Backend"
-    />
-    <img
-      src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=postman&logoColor=A78BFA"
-      alt="REST APIs"
-    />
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://skillicons.dev/icons?i=postman&theme=dark"
+        alt="REST APIs / Postman"
+        width="40"
+        height="40"
+      />
+    </a>
+
   </td>
 </tr>
+
 
 <!-- DATA & ML -->
 <tr>
@@ -126,24 +169,51 @@ that combine <strong>logic, creativity, and design</strong>.
   </td>
 
   <td>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" />
+    </a>
+     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+        alt="TensorFlow"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+        alt="Pandas"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+        alt="Seaborn"
+        width="40"
+        height="40"
+      />
+    </a>
+     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"
-      alt="Python and Scikit-learn"
-    />
-    <img
-      src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-      alt="Pandas"
-    />
-    <img
-      src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
-      alt="Keras"
-    />
-    <img
-      src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"
+      src="https://matplotlib.org/stable/_static/logo2.svg"
       alt="Matplotlib"
+      width="40"
+      height="40"
     />
+  </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
+        alt="Keras"
+      />
+    </a>
+
   </td>
 </tr>
+
 
 <!-- DATABASES -->
 <tr>
@@ -155,16 +225,17 @@ that combine <strong>logic, creativity, and design</strong>.
   </td>
 
   <td>
-    <img
-      src="https://skillicons.dev/icons?i=postgres&theme=dark"
-      alt="PostgreSQL"
-    />
-    <img
-      src="https://img.shields.io/badge/SQL-1E1B4B?style=for-the-badge&logoColor=A78BFA"
-      alt="SQL"
-    />
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="MySQL"
+        width="40"
+        height="40"
+      />
+    </a>
   </td>
 </tr>
+
 
 <!-- TOOLS -->
 <tr>
@@ -174,16 +245,39 @@ that combine <strong>logic, creativity, and design</strong>.
       alt="Tools"
     />
   </td>
-
   <td>
-    <img
-      src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"
-      alt="Tools"
-    />
-    <img
-      src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
-      alt="Jupyter"
-    />
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" />
+    </a>
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
+        alt="Qt"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+        alt="Jupyter"
+        width="80"
+        height="40"
+      />
+    </a>
+
   </td>
 </tr>
 
@@ -194,10 +288,8 @@ that combine <strong>logic, creativity, and design</strong>.
 <h2> ✿ GitHub Stats ✿</h2>
 
 <div align="center">
-<p align="center">
   <!-- ===================== GITHUB STATS ===================== -->
 
-<p align="center">
 <img
   height="160"
   src="https://github-readme-stats.vercel.app/api?username=fernandagareca&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&ring_color=A78BFA&border_radius=24"
@@ -209,7 +301,7 @@ that combine <strong>logic, creativity, and design</strong>.
   alt="GitHub Streak"
 />
 </p>
-
+</div>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagareca&langs_count=15&layout=donut&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=C4B5FD&text_color=E2E8F0&border_radius=24"
   alt="Top Languages"
@@ -220,16 +312,28 @@ that combine <strong>logic, creativity, and design</strong>.
 ## ✿ Let's connect ✿
 
 <p>
-  <a href="https://www.linkedin.com/in/fernanda-g-897414301/">
+ <a href="mailto:fernanda.gareca321@gmail.com">
+  <img
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg"
+    alt="Email"
+    width="32"
+    height="32"
+  />
+</a>
+  <a href="https://linkedin.com/in/fernanda-g-897414301/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
+      height="30"
+      width="40"
     />
   </a>
-  <a href="mailto:fernanda.gareca321@gmail.com">
+  <a href="https://www.instagram.com/mari.fgk/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40"
     />
   </a>
 </p>
