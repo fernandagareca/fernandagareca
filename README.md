@@ -39,7 +39,7 @@
       </div>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./saludo.gif" alt="Programming" width="320"
+      <img src="./greet.gif" alt="Programming" width="320"
       />
     </td>
   </tr>
